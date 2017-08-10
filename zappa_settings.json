@@ -1,0 +1,8 @@
+{
+    "dev": {
+        "django_settings": "django_test.settings",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "s3_bucket": "zappa-irrelevant"
+    }
+}
